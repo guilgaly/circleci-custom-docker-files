@@ -1,1 +1,0 @@
-docker push guilgaly/openjdk-mill-node-heroku:11.0.2-0.3.6-stretch

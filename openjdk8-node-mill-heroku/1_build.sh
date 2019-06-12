@@ -1,1 +1,0 @@
-docker build -t=guilgaly/openjdk-mill-node-heroku:8u181-0.3.6-stretch .
