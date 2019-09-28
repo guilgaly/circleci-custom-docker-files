@@ -1,6 +1,6 @@
 import ammonite.ops._
 
-val jdkVersions = List("8u222", "11.0.4", "12.0.2")
+val jdkVersions = List("8u222", "11.0.4", "12.0.2", "13")
 val millVersions = List("0.5.1")
 
 val tmpPath = pwd / "tmp"
